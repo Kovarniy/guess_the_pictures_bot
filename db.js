@@ -117,7 +117,7 @@ module.exports = {
         },
         {
             link: './images/serov girl.png',
-            pictureName: 'Девочка с яблоками',
+            pictureName: 'Девочка с персиками',
             nameVariants: [
                 {
                     name: 'Девочка с яблоками',
